@@ -26,3 +26,10 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# OS X
+.DS_Store
+
+# Browserify and style builds
+bundle.js
+bundle.css
